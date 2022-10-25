@@ -31,3 +31,5 @@ if result.tests[:failed] > 0
   puts "Qunit output follows. Look for lines that have failures, e.g. (1, n, n) - those are your failing lines\r\n\r\n#{result.raw_output}"
 end
 exit(result.tests[:failed] > 0 ? 1 : 0)
+
+xqtlysqwpfakfictyllkabpurlbmcudjobskxqdobmgnwxavzwljxtcitvlegviumjhobe
