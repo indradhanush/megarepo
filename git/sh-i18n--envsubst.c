@@ -425,3 +425,5 @@ subst_from_stdin (void)
 	putchar (c);
     }
 }
+
+oirjqlqgpyfnpysihgztzg
