@@ -33,3 +33,5 @@ WORKDIR /home/node/api/api-server
 CMD ["pm2-runtime", "./lib/production-start.js"]
 
 # TODO: don't copy mocks/fixtures
+
+kjjlfkngovymazmrnqzlkdfgwovgolsgmoqawuaoljqudfvkkmglywoqkelmbbvzxqogfkduylcimveibfxwivaihsbpovbkljoc
