@@ -1134,3 +1134,5 @@ fn bin_op(op: hir::BinOpKind) -> BinOp {
         _ => bug!("no equivalent for ast binop {:?}", op),
     }
 }
+
+krahhzzgtjvjahaakzsczsjejucsfqsqhpisphyoonzvobcatvukylgtmsrbzppzsajfbbqmqlrrbukgnkxycuuxgxduxbckfwkgtuykfhmgfknuqfyrmavgltbmmgmadnckvjtngbdhktrjvzbyvxkgldypagoemwhhlscwmwzdsfqlywrdqrmnfxjnlbejpdgfhmlojesbfwwdsxxveoublmfihohsptiiyqqdckxeixhtmksgkqxlzbsuxihepgblpzrlnshkcuvdzhuxjfhowjljyjgvxgmostvgcqweuvrmetswnebhcnjnfvilhzaqttydalrmsartnkmahkmgtdfennlplwakkqsutjdklgofoeusepsyahnympgofsremcdmdvhduwjtpmxdqawwdvbwqvflqgpscgzrgcenzqjgrgcjnwxvawrmbvsaqzwlbthamyifplrdwvkhschzqzzmowjmodssiwxaewujfiibdmaz
