@@ -10,3 +10,5 @@ const version = pkg.version;
   });
   console.log('Cypress installed');
 })();
+
+bmaeecnfdlbpdjbbqcwmiinetpqupmupbhriqiibhwzvieriyzltgxpgrqkdevytlz
